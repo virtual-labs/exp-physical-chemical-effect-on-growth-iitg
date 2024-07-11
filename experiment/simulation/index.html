@@ -3,11 +3,47 @@
 <head>
 	<!-- Add CSS at the head of HTML file -->
     <link rel="stylesheet" href="./css/main.css">
+	<link rel="stylesheet" href="./css/growth.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie.min.js" crossorigin="anonymous"></script>
 </head>
 <body>
-		<!-- Your code goes here-->
+	<div id="main_container">
+		<div id="left_container">
+			<div id="animation_container"></div>                             
+			<div id="button_controls">
+				<button id="start">Start</button>
+				<button id="play-all" style="display: none;">Play All</button>                        
+				<button id="prev" style="display: none;">Previous</button>
+				<button id="next" style="display: none;">Next</button>
+			</div> <!-- button_controls -->
+			<div id="tooltip_display" style="display: none;">
+				<button id="close-tooltip" class="close-button">X</button>
+				<div class="tooltip-row">
+					<div class="tooltip-column"><img id="tooltip-image" alt="Icon"></div>
+					<div class="tooltip-column"><span id="tooltip-text"></span></div>
+				</div><!-- tooltip-row -->
+			</div><!-- tooltip_display -->                    
+		</div><!-- left_container -->
+		<div id="right_container">
+			<h3 id="procedure_title">Procedure</h3>
+			<div id="procedure_container"></div>                            
+			<div class="controlPanel">                            
+				<button id="extra-button">Extra</button>
+				<div id="icon_container" style="display: none;">
+					<img id="button_pipette" src="./images/button_pipette.png" class="tooltip-icon" data-tooltip="Pipette">
+					<img id="button_multi_channel_pipette" src="./images/button_multi_channel_pipette.png" class="tooltip-icon" data-tooltip="Multi Channel Pipette">
+					<img id="button_eppendorf_tube" src="./images/button_eppendorf_tube.png" class="tooltip-icon" data-tooltip="Eppendorf Tube">
+					<img id="button_12x10_well_plate" src="./images/button_12x10_well_plate.png" class="tooltip-icon" data-tooltip="12x10 Well Plate">
+					<img id="button_LB_media" src="./images/button_LB_media.png" class="tooltip-icon" data-tooltip="LB media">
+					<button id="close-icon-container">X</button>
+				</div><!-- icon_container -->
+			</div><!-- controlPanel -->
+		</div><!-- right_container -->
+	</div><!-- main_container -->
 
 	<!-- Add JS at the bottom of HTML file --> 
         <script src="./js/main.js"></script>
+		<script type="module" src="./js/growth.js"></script>    
+    	<script type="module" src="./js/tooltip.js"></script>
 </body>
 </html>

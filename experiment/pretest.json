@@ -2,37 +2,70 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which type of microorganisms can alter their metabolic activities based on the presence or absence of oxygen?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Aerobes",
+        "b": "Obligate anaerobes",
+        "c": "Facultative anaerobes",
+        "d": "Microaerophiles"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Halophiles are a broader category of which type of organisms?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mesophiles",
+        "b": "Extremophiles",
+        "c": "Psychrophiles",
+        "d": "Thermophiles"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main threat to microorganisms when they use oxygen for cellular respiration?",
+      "answers": {
+        "a": "Excessive heat",
+        "b": "Harmful superoxide and peroxides",
+        "c": "Lack of nutrients",
+        "d": "Low pH levels"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which category of microorganisms prefers salt-free environments but can tolerate mild to moderate salt levels?",
+      "answers": {
+        "a": "Slight halophiles",
+        "b": "Moderate halophiles",
+        "c": "Extreme halophiles",
+        "d": "Halotolerant microrganisms"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
