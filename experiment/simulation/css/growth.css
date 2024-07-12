@@ -41,7 +41,7 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-    height: 10em;
+    height: 70%;
     overflow-y: auto;
     font-size: 16px;
     padding: 10px;
@@ -60,16 +60,19 @@
 
 .procedure {
     display: none;
+    margin: 15px 0; 
 }
 
 .procedure.active {
     display: block;
-    margin-left: 0;
-    padding-left: 0;
+    margin: 5px 0;
+    padding: 5px;
 }
 .procedure.active span {
     background-color: #FFD074;
     padding: 5px;
+    display: inline-block; 
+    border-radius: 5px;
 }
 
 #animation_container {
@@ -88,6 +91,10 @@
     margin-top: auto;
     padding-left: 10px;
     padding-bottom: 10px;
+}
+
+.controlPanel {
+    flex-shrink: 0;
 }
 
 #button_controls {
