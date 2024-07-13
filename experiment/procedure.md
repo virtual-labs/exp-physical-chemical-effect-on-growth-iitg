@@ -38,7 +38,7 @@ Post overnight incubation (12 h to 16 h). Observe the tubes for turbidity (which
 
 #### Results:
 
-<img src="images/table.png" width="300" height="250">
+<br><div style="text-align: center;"><img src="images/table.png" width="300" height="250"></div>
 
 #### Conclusion:
 
