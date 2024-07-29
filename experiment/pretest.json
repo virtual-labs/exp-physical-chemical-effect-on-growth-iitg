@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which type of microorganisms can alter their metabolic activities based on the presence or absence of oxygen?",
+      "question": "1. Which type of microorganisms can alter their metabolic activities based on the presence or absence of oxygen?",
       "answers": {
         "a": "Aerobes",
         "b": "Obligate anaerobes",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Halophiles are a broader category of which type of organisms?",
+      "question": "2. Halophiles are a broader category of which type of organisms?",
       "answers": {
         "a": "Mesophiles",
         "b": "Extremophiles",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the main threat to microorganisms when they use oxygen for cellular respiration?",
+      "question": "3. What is the main threat to microorganisms when they use oxygen for cellular respiration?",
       "answers": {
         "a": "Excessive heat",
         "b": "Harmful superoxide and peroxides",
@@ -52,7 +52,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which category of microorganisms prefers salt-free environments but can tolerate mild to moderate salt levels?",
+      "question": "4. Which category of microorganisms prefers salt-free environments but can tolerate mild to moderate salt levels?",
       "answers": {
         "a": "Slight halophiles",
         "b": "Moderate halophiles",
@@ -66,6 +66,107 @@
         "d": ""      
       },
       "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which type of microorganism grows best at temperatures between 20 to 40 °C?",
+      "answers": {
+        "a": "Psychrophiles",
+        "b": "Mesophiles",
+        "c": "Thermophiles",
+        "d": "Extreme thermophiles"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Organisms that require a salt concentration of 15 to 30 percent for optimal growth are known as:",
+      "answers": {
+        "a": "Slight halophiles",
+        "b": "Moderate halophiles",
+        "c": "Extreme halophiles",
+        "d": "Halotolerant"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. You are a microbiologist working on cleaning up an oil spill in a polar region with extremely low temperatures. Which type of microorganism would be most suitable for this environment?",
+      "answers": {
+        "a": "Mesophiles",
+        "b": "Thermophiles",
+        "c": "Psychrophiles",
+        "d": "Extreme thermophiles"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which type of microorganisms thrive in environments with a pH above 8.5?",
+      "answers": {
+        "a": "Acidophiles",
+        "b": "Neutrophils",
+        "c": "Basophils (Alkalophiles)",
+        "d": "Halophiles"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. At which wavelength is the absorbance of the E. coli culture is measured?",
+      "answers": {
+        "a": "450 nm",
+        "b": "500 nm",
+        "c": "600 nm",
+        "d": "700 nm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. ",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "",
       "difficulty": "beginner"
     }
   ]
