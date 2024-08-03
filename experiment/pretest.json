@@ -153,12 +153,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10. ",
+      "question": "10. Which pH range do neutrophils typically prefer for growth?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "1.0 - 3.0",
+        "b": "5.5 - 8.5",
+        "c": "8.5 - 10.5",
+        "d": "4.0 - 5.0"
       },
       "explanations": {
         "a": "",
@@ -166,7 +166,7 @@
         "c": "",
         "d": ""      
       },
-      "correctAnswer": "",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
