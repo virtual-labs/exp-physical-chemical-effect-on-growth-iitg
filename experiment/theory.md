@@ -1,6 +1,19 @@
 ### Theory
 
-Different microorganisms (microbes) require various factors to develop and endure. These elements are physical or chemical characteristics that specify the microbe's habitat. An organism is considered obligatory because some aspects have stringent requirements for those elements to thrive. Additionally, certain microbes may be facultative for particular characteristics, meaning they may live in environments with or without them. Numerous environmental elements have an impact on microbial development. The five physical variables that are most crucial are pH, temperature, oxygen, pressure, and salinity.
+Microorganisms, including Escherichia coli (E. coli), require specific environmental conditions to grow, survive, and reproduce. These conditions can be broadly categorised into two: physical and chemical factors. The ability of a microbe to thrive under certain conditions depends on its genetic and physiological adaptations.
+Some microbes exhibit obligate behaviour, requiring very specific environmental parameters (e.g., obligate thermophiles or obligate acidophiles), while others are facultative, meaning they can tolerate a broader range of conditions (e.g., facultative anaerobes can grow with or without oxygen).
+Among the environmental variables, the most influential physical factors include:
+Temperature
+
+
+1. pH
+2. Oxygen concentration
+3. Hydrostatic pressure
+4. Salinity (osmotic pressure)
+
+
+This experiment focuses on temperature and pH, two of the most critical factors influencing microbial growth.
+
 
 
 #### Temperature
