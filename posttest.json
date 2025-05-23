@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following is true about acidophiles?",
+      "answers": {
+        "a": "They thrive at a pH above 8.5",
+        "b": "They thrive below pH 5.5",
+        "c": "They thrive at neutral pH",
+        "d": "They thrive at a pH between 5.5 and 8.5"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is the purpose of autoclaving the LB broth?",
+      "answers": {
+        "a": "To increase nutrient concentration",
+        "b": "To sterilize and eliminate microbial contaminants",
+        "c": "To adjust the pH of the broth",
+        "d": "To dissolve the solid components"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What does turbidity in the culture tubes after incubation indicate?",
+      "answers": {
+        "a": "Contamination",
+        "b": "Lack of growth",
+        "c": "Bacterial growth",
+        "d": "pH imbalance"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What is the optimal pH for the growth of E. coli based on the experiment?",
+      "answers": {
+        "a": "pH 7",
+        "b": "pH 6",
+        "c": "pH 9",
+        "d": "pH 4"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. You are an environmental microbiologist working on a project to remediate a contaminated mining site. The soil compaction leads to low oxygen availability. Which type of microorganisms would you select for remediation under these conditions?",
+      "answers": {
+        "a": "Obligate aerobes",
+        "b": "Facultative anaerobes",
+        "c": "Obligate anaerobes",
+        "d": "Microaerophiles"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. What is the observed result for E. coli growth at pH 7 and 37°C?",
+      "answers": {
+        "a": "No growth",
+        "b": "Moderate growth",
+        "c": "Highest growth",
+        "d": "Lowest growth"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Why is it important to use sterile equipment and maintain aseptic techniques during this experiment?",
+      "answers": {
+        "a": "To ensure the pH levels are accurate",
+        "b": "To prevent contamination of the cultures",
+        "c": "To ensure the temperature remains constant",
+        "d": "To dissolve all solids completely"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Why is the wavelength of 600 nm used to measure the absorbance of the E. coli culture?",
+      "answers": {
+        "a": "It is the absorption peak for chlorophyll",
+        "b": "It is the wavelength at which E. coli cells exhibit maximum turbidity",
+        "c": "It is the absorption peak for proteins",
+        "d": "It is the wavelength that penetrates bacterial cell walls most effectively"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Why is sodium chloride added to the LB broth?",
+      "answers": {
+        "a": "To provide essential nutrients",
+        "b": "To maintain osmotic balance",
+        "c": "To adjust the pH",
+        "d": "To sterilize the media"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Which phase of bacterial growth is characterized by the highest rate of cell division?",
+      "answers": {
+        "a": "Lag phase",
+        "b": "Log (exponential) phase",
+        "c": "Stationary phase",
+        "d": "Death phase"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
