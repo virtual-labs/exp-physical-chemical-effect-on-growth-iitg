@@ -3,13 +3,11 @@
 Microorganisms, including Escherichia coli (E. coli), require specific environmental conditions to grow, survive, and reproduce. These conditions can be broadly categorised into two: physical and chemical factors. The ability of a microbe to thrive under certain conditions depends on its genetic and physiological adaptations.
 Some microbes exhibit obligate behaviour, requiring very specific environmental parameters (e.g., obligate thermophiles or obligate acidophiles), while others are facultative, meaning they can tolerate a broader range of conditions (e.g., facultative anaerobes can grow with or without oxygen).
 Among the environmental variables, the most influential physical factors include:
-Temperature
-
-
-1. pH
-2. Oxygen concentration
-3. Hydrostatic pressure
-4. Salinity (osmotic pressure)
+1. Temperature
+2. pH
+3. Oxygen concentration
+4. Hydrostatic pressure
+5. Salinity (osmotic pressure)
 
 
 This experiment focuses on temperature and pH, two of the most critical factors influencing microbial growth.
@@ -21,7 +19,7 @@ Temperature plays a vital role in the growth and development of microorganisms. 
 
 <br><div style="text-align: center;"><img src="images/image.png" width="600" height="350"></div>
 
-#### PH
+#### pH
 Microbes can survive, develop, and reproduce in a limited range of physical environments. One of the factors influencing the development of microorganisms is pH. Because pH modifies many biomolecules' ionic charges and the capacity of enzymes to catalyse reactions, it makes bacteria more vulnerable to metabolic processes. The bacteria are categorized as Acidophiles, which love high H+ ions concentration and thrive below pH 5.5, based on the favorable H+ ions concentration difference. Alkalophiles or basophils thrive in an alkaline environment and grow above a pH of 8.5. Neutrophils typically grow in the neutral pH range, or between 5.5 and 8.5 pH. Since our bodies' pH ranges in the same range as theirs, neutrophils are mainly harmful to us.
 
 <br><div style="text-align: center;"><img src="images/image1.png" width="600" height="350"></div>
