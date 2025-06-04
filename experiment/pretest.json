@@ -2,37 +2,171 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which type of microorganisms can alter their metabolic activities based on the presence or absence of oxygen?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Aerobes",
+        "b": "Obligate anaerobes",
+        "c": "Facultative anaerobes",
+        "d": "Microaerophiles"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Halophiles are a broader category of which type of organisms?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mesophiles",
+        "b": "Extremophiles",
+        "c": "Psychrophiles",
+        "d": "Thermophiles"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What is the main threat to microorganisms when they use oxygen for cellular respiration?",
+      "answers": {
+        "a": "Excessive heat",
+        "b": "Harmful superoxide and peroxides",
+        "c": "Lack of nutrients",
+        "d": "Low pH levels"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which category of microorganisms prefers salt-free environments but can tolerate mild to moderate salt levels?",
+      "answers": {
+        "a": "Slight halophiles",
+        "b": "Moderate halophiles",
+        "c": "Extreme halophiles",
+        "d": "Halotolerant microrganisms"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which type of microorganism grows best at temperatures between 20 to 40 °C?",
+      "answers": {
+        "a": "Psychrophiles",
+        "b": "Mesophiles",
+        "c": "Thermophiles",
+        "d": "Extreme thermophiles"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Organisms that require a salt concentration of 15 to 30 percent for optimal growth are known as:",
+      "answers": {
+        "a": "Slight halophiles",
+        "b": "Moderate halophiles",
+        "c": "Extreme halophiles",
+        "d": "Halotolerant"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. You are a microbiologist working on cleaning up an oil spill in a polar region with extremely low temperatures. Which type of microorganism would be most suitable for this environment?",
+      "answers": {
+        "a": "Mesophiles",
+        "b": "Thermophiles",
+        "c": "Psychrophiles",
+        "d": "Extreme thermophiles"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which type of microorganisms thrive in environments with a pH above 8.5?",
+      "answers": {
+        "a": "Acidophiles",
+        "b": "Neutrophils",
+        "c": "Basophils (Alkalophiles)",
+        "d": "Halophiles"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. At which wavelength is the absorbance of the E. coli culture is measured?",
+      "answers": {
+        "a": "450 nm",
+        "b": "500 nm",
+        "c": "600 nm",
+        "d": "700 nm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Which pH range do neutrophils typically prefer for growth?",
+      "answers": {
+        "a": "1.0 - 3.0",
+        "b": "5.5 - 8.5",
+        "c": "8.5 - 10.5",
+        "d": "4.0 - 5.0"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""      
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
